@@ -2,7 +2,7 @@
     <a href="https://rafaelrosasoffice.github.io/MyHouse/" target="_blank">🏘️ MyHouse 🏘️</span></a>
 </h1>
 <p align="center">🚧Projeto em desenvolvimento. Utilizado:🚧<br>
-(Project in development, used:)</p>
+(Project in development. Used:)</p>
 
 <!--ts-->
 * HTML;
