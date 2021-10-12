@@ -1,11 +1,3 @@
-# 
-
-Projeto em desenvolvimento com HTML, CSS e JavaScript <br>
-Site responsivo para celular, tablet e desktop. <br> 
-
-Acesse o projeto:<br>
-
-
 <h1 align="center">
     <a href="https://rafaelrosasoffice.github.io/MyHouse/" target="_blank">🏘️ MyHouse 🏘️</span></a>
 </h1>
