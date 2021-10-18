@@ -269,9 +269,10 @@ nav.show div.icon-switch {
   font: 400 1rem var(--body-font);
   color: var(--base-color-alt);
   padding-left: 1rem;
-  padding-top: 0.3rem;
+  padding-top: 1.3rem;
   position: relative;
   right: 10rem;
+  top: -0.8rem;
 }
 .button2 {
   background-color: var(--base-color-alt);
@@ -355,7 +356,7 @@ nav.show div.icon-switch {
 
 /* buy-sell */
 #buy-sells {
-  overflow: auto;
+  overflow: hidden;
   display: flex;
   text-align: center;
   justify-content: center;
@@ -592,6 +593,9 @@ p {
   }
 
   /* buy-sells */
+  #buy-sells {
+    overflow: hidden;
+  }
   #buy-sells .container {
     margin-right: auto;
     margin-left: auto;
