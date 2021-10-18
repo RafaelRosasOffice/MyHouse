@@ -1,4 +1,4 @@
-![Rafael Rosas](img/linguage.jpg)
+![Rafael Rosas](img/linguage_new.jpg)
 
 <p align="center" ><img src="https://img.shields.io/github/issues/RafaelRosasOffice/MyHouse">
 <img src="https://img.shields.io/github/forks/RafaelRosasOffice/MyHouse">
