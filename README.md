@@ -39,11 +39,9 @@ By Rafael Rosas 👋🏽 Entre em contato!
 
 ---
 
-<img src="img/one.jpg" width="auto" height="300px">
-<img src="img/two.jpg" width="auto" height="300px">
-<img src="img/three.jpg" width="auto" height="300px">
-<img src="img/four.jpg" width="auto" height="300px">
-<img src="img/five.jpg" width="auto" height="300px">
-<img src="img/six.jpg" width="auto" height="300px">
-<img src="img/seven.jpg" width="auto" height="300px">
-<img src="img/eight.jpg" width="auto" height="300px">
+|             Home             |           Button            |            Renatls            |          Process one          |
+| :--------------------------: | :-------------------------: | :---------------------------: | :---------------------------: |
+| ![Editing Web](img/one.jpg)  | ![Editing Web](img/two.jpg) | ![Editing Web](img/three.jpg) | ![Editing Web](img/four.jpg)  |
+|         Process two          |        Process three        |          Because we           |             Menu              |
+| :-------------------------:  | :-------------------------: |  :-------------------------:  |  :-------------------------:  |
+| ![Editing Web](img/five.jpg) | ![Editing Web](img/six.jpg) | ![Editing Web](img/seven.jpg) | ![Editing Web](img/eight.jpg) |
