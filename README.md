@@ -17,7 +17,7 @@
 
 - Site responsivo para celular, tablet e desktop.<br>(Responsive website for mobile, tablet and desktop.)
 
-<p align="right" style="color: red;">Para acessar o projeto aperte no título.(To access the project, click on the title.)</p><br>
+<p align="left" style="color: red;">Para acessar o projeto aperte no título.(To access the project, click on the title.)</p><br>
 
 ### Autor
 
