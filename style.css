@@ -258,7 +258,7 @@ nav.show div.icon-switch {
   background-color: white;
   box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.5);
   border-radius: 30rem;
-  padding: 1.3rem 0;
+  padding: 0.8rem 0;
   padding-left: 10rem;
   display: flex;
   justify-content: flex-start;
@@ -353,6 +353,12 @@ nav.show div.icon-switch {
 }
 
 /* buy-sell */
+#buy-sells {
+  overflow: auto;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
 #buy-sells h2 {
   text-align: center;
 }
@@ -447,7 +453,7 @@ p {
   padding-bottom: 1.5rem;
 }
 #agent img {
-  border-radius: 6.25rem 0;
+  border-radius: 3.125rem 0;
 }
 #agent .image::before {
   content: '';
